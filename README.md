@@ -43,7 +43,7 @@ In addition to the overall dashboard, the Power BI file includes distinct sheets
 
 Lastly, the Power BI file boasts a "Final 11" button. Clicking on this button is a revelation in itself, as it unveils Power BI's expertly curated best playing 11 lineup for the Border-Gavaskar Trophy 2020. This lineup showcases the players who, according to the Power BI analysis, formed the most effective and impactful team during the series.
 
-If you want to clear the selections in overall dashboard, Right click on the visual and select the clear selections button
+If you want to clear the selections in the overall dashboard, ctrl + click on the Clear all filters button
 
 By following these navigation instructions and exploring the different sheets and features, you'll be able to gain a comprehensive and nuanced understanding of the Border-Gavaskar Trophy 2020 through the lens of Power BI's insightful analysis.
 
